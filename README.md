@@ -25,8 +25,8 @@ Nobody has shipped a cheap, open-source, weather-independent, retrofittable clos
 ## Why Hyperthermia?
 
 - No chemical residues in wax or honey
-- No resistance pressure on mite populations
-- Weather independent — works on any day, any season
+- Low resistance risk — hyperthermia acts through broad physiological stress rather than a single molecular target, making rapid resistance evolution less likely; however, any treatment that preferentially kills susceptible mites imposes selection pressure, and long-term adaptation cannot be excluded
+- Weather independent — no sun required; works in any season above ~5°C ambient
 - Targets the brood-safe window when properly controlled
 - Compatible with integrated Varroa management approaches
 
@@ -221,3 +221,7 @@ Those are questions existing hyperthermia systems generally cannot answer. The m
 ## License
 
 Hardware: **CERN OHL-S v2** — Docs: **CC BY-SA 4.0** — Firmware: **MIT**
+
+-----
+
+🌱 *Early concept / pre-prototype*
